@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="Golden_key.c" />
+    <ClCompile Include="main.c" />
+    <ClCompile Include="Zone.c" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="def.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="fmod_set.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="function.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="struct.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{3c71d8f8-f67b-4f82-82e4-d4058a35007f}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

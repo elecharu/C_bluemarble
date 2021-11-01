@@ -1,0 +1,11 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(519,5): warning MSB8028: 중간 디렉터리(x64\Debug\)에 다른 프로젝트(C_TERM.vcxproj)에서 공유하는 파일이 포함되어 있습니다.  이로 인해 잘못된 정리 및 다시 빌드 동작이 수행될 수 있습니다.
+main.obj : error LNK2019: FMOD_System_Createfmod_Init 함수에서 참조되는 확인할 수 없는 외부 기호
+main.obj : error LNK2019: FMOD_System_Releasefmod_Release 함수에서 참조되는 확인할 수 없는 외부 기호
+main.obj : error LNK2019: FMOD_System_Initfmod_Init 함수에서 참조되는 확인할 수 없는 외부 기호
+main.obj : error LNK2019: FMOD_System_Closefmod_Release 함수에서 참조되는 확인할 수 없는 외부 기호
+main.obj : error LNK2019: FMOD_System_CreateSoundfmod_Init 함수에서 참조되는 확인할 수 없는 외부 기호
+main.obj : error LNK2019: FMOD_System_PlaySoundmain 함수에서 참조되는 확인할 수 없는 외부 기호
+main.obj : error LNK2019: FMOD_Sound_Releasefmod_Release 함수에서 참조되는 확인할 수 없는 외부 기호
+main.obj : error LNK2019: FMOD_Channel_Stopmain 함수에서 참조되는 확인할 수 없는 외부 기호
+C:\Program Files (x86)\FMOD SoundSystem\FMOD Programmers API Win32\api\lib\fmodex_vc.lib : warning LNK4272: 'x86' 라이브러리 컴퓨터 종류가 'x64' 대상 컴퓨터 종류와 충돌합니다.
+C:\Users\sinwe\OneDrive\Desktop\C프로젝트_0613 최종수정\C 프로젝트 Client\x64\Debug\C_TERM Client.exe : fatal error LNK1120: 8개의 확인할 수 없는 외부 참조입니다.

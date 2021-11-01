@@ -1,0 +1,2 @@
+﻿  main.c
+C:\Users\com\Desktop\C프로젝트_0613(수정)_GAME_OVER\C 프로젝트 Server\C_TERM\main.c(12,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'fmod.h': No such file or directory

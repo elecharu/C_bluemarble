@@ -1,0 +1,43 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(519,5): warning MSB8028: 중간 디렉터리(Debug\)에 다른 프로젝트(C_TERM.vcxproj)에서 공유하는 파일이 포함되어 있습니다.  이로 인해 잘못된 정리 및 다시 빌드 동작이 수행될 수 있습니다.
+  Golden_key.c
+  main.c
+C:\Users\sinwe\OneDrive\Desktop\C프로젝트 1조 최종본\C 프로젝트 Client\C_TERM\main.c(200,3): warning C4098: 'main': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\sinwe\OneDrive\Desktop\C프로젝트 1조 최종본\C 프로젝트 Client\C_TERM\main.c(207,17): warning C4098: 'main': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\sinwe\OneDrive\Desktop\C프로젝트 1조 최종본\C 프로젝트 Client\C_TERM\main.c(235,3): warning C4098: 'main': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\sinwe\OneDrive\Desktop\C프로젝트 1조 최종본\C 프로젝트 Client\C_TERM\main.c(345,95): warning C4474: 'printf' : 서식 문자열에 전달된 인수가 너무 많습니다.
+C:\Users\sinwe\OneDrive\Desktop\C프로젝트 1조 최종본\C 프로젝트 Client\C_TERM\main.c(345,95): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 0개 필요하지만 1개가 제공되었습니다.
+C:\Users\sinwe\OneDrive\Desktop\C프로젝트 1조 최종본\C 프로젝트 Client\C_TERM\main.c(363,95): warning C4474: 'printf' : 서식 문자열에 전달된 인수가 너무 많습니다.
+C:\Users\sinwe\OneDrive\Desktop\C프로젝트 1조 최종본\C 프로젝트 Client\C_TERM\main.c(363,95): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 0개 필요하지만 1개가 제공되었습니다.
+C:\Users\sinwe\OneDrive\Desktop\C프로젝트 1조 최종본\C 프로젝트 Client\C_TERM\main.c(971,40): warning C4047: '==': 'int'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\sinwe\OneDrive\Desktop\C프로젝트 1조 최종본\C 프로젝트 Client\C_TERM\main.c(1153,40): warning C4047: '==': 'int'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\sinwe\OneDrive\Desktop\C프로젝트 1조 최종본\C 프로젝트 Client\C_TERM\main.c(2129,25): warning C4047: '=': 'char'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\sinwe\OneDrive\Desktop\C프로젝트 1조 최종본\C 프로젝트 Client\C_TERM\main.c(2230,27): warning C4047: '=': 'int'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\sinwe\OneDrive\Desktop\C프로젝트 1조 최종본\C 프로젝트 Client\C_TERM\main.c(2501,25): warning C4047: '=': 'char'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\sinwe\OneDrive\Desktop\C프로젝트 1조 최종본\C 프로젝트 Client\C_TERM\main.c(2806,21): warning C4047: '=': 'int'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\sinwe\OneDrive\Desktop\C프로젝트 1조 최종본\C 프로젝트 Client\C_TERM\main.c(2940,21): warning C4047: '=': 'int'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\sinwe\OneDrive\Desktop\C프로젝트 1조 최종본\C 프로젝트 Client\C_TERM\main.c(2980,21): warning C4047: '=': 'int'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\sinwe\OneDrive\Desktop\C프로젝트 1조 최종본\C 프로젝트 Client\C_TERM\main.c(3202,21): warning C4047: '=': 'int'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\sinwe\OneDrive\Desktop\C프로젝트 1조 최종본\C 프로젝트 Client\C_TERM\main.c(3312,21): warning C4047: '=': 'int'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\sinwe\OneDrive\Desktop\C프로젝트 1조 최종본\C 프로젝트 Client\C_TERM\main.c(3397,28): warning C4047: '=': 'int'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\sinwe\OneDrive\Desktop\C프로젝트 1조 최종본\C 프로젝트 Client\C_TERM\main.c(3398,28): warning C4047: '=': 'int'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\sinwe\OneDrive\Desktop\C프로젝트 1조 최종본\C 프로젝트 Client\C_TERM\main.c(3399,31): warning C4047: '=': 'int'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\sinwe\OneDrive\Desktop\C프로젝트 1조 최종본\C 프로젝트 Client\C_TERM\main.c(3400,28): warning C4047: '=': 'int'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\sinwe\OneDrive\Desktop\C프로젝트 1조 최종본\C 프로젝트 Client\C_TERM\main.c(3511,21): warning C4047: '=': 'int'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\sinwe\OneDrive\Desktop\C프로젝트 1조 최종본\C 프로젝트 Client\C_TERM\main.c(3651,28): warning C4047: '=': 'int'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\sinwe\OneDrive\Desktop\C프로젝트 1조 최종본\C 프로젝트 Client\C_TERM\main.c(3652,28): warning C4047: '=': 'int'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\sinwe\OneDrive\Desktop\C프로젝트 1조 최종본\C 프로젝트 Client\C_TERM\main.c(3653,31): warning C4047: '=': 'int'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\sinwe\OneDrive\Desktop\C프로젝트 1조 최종본\C 프로젝트 Client\C_TERM\main.c(3654,28): warning C4047: '=': 'int'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\sinwe\OneDrive\Desktop\C프로젝트 1조 최종본\C 프로젝트 Client\C_TERM\main.c(3657,42): warning C4047: '==': 'char *'의 간접 참조 수준이 'unsigned int'과(와) 다릅니다.
+C:\Users\sinwe\OneDrive\Desktop\C프로젝트 1조 최종본\C 프로젝트 Client\C_TERM\main.c(3665,47): warning C4047: '==': 'char *'의 간접 참조 수준이 'unsigned int'과(와) 다릅니다.
+C:\Users\sinwe\OneDrive\Desktop\C프로젝트 1조 최종본\C 프로젝트 Client\C_TERM\main.c(3727,25): warning C4047: '!=': 'int'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\sinwe\OneDrive\Desktop\C프로젝트 1조 최종본\C 프로젝트 Client\C_TERM\main.c(3756,29): warning C4047: '!=': 'int'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\sinwe\OneDrive\Desktop\C프로젝트 1조 최종본\C 프로젝트 Client\C_TERM\main.c(3828,4): warning C4098: 'main': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\sinwe\OneDrive\Desktop\C프로젝트 1조 최종본\C 프로젝트 Client\C_TERM\main.c(249,1): warning C4047: '초기화 중': 'int'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\sinwe\OneDrive\Desktop\C프로젝트 1조 최종본\C 프로젝트 Client\C_TERM\main.c(260,1): warning C4047: '초기화 중': 'int'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\sinwe\OneDrive\Desktop\C프로젝트 1조 최종본\C 프로젝트 Client\C_TERM\main.c(261,1): warning C4047: '초기화 중': 'int'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\sinwe\OneDrive\Desktop\C프로젝트 1조 최종본\C 프로젝트 Client\C_TERM\main.c(287,7): warning C4101: 'OEKEY_buf' :참조되지 않은 지역 변수입니다.
+C:\Users\sinwe\OneDrive\Desktop\C프로젝트 1조 최종본\C 프로젝트 Client\C_TERM\main.c(264,6): warning C4101: 'intro_status' :참조되지 않은 지역 변수입니다.
+  Zone.c
+C:\Users\sinwe\OneDrive\Desktop\C프로젝트 1조 최종본\C 프로젝트 Client\C_TERM\Zone.c(29,22): warning C4047: '=': 'int'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+  코드를 생성하고 있습니다...
+  C_TERM.vcxproj -> C:\Users\sinwe\OneDrive\Desktop\C프로젝트 1조 최종본\C 프로젝트 Client\Debug\C_TERM Client.exe
